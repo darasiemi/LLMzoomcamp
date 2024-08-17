@@ -1,1 +1,3 @@
 01-intro/.ipynb_checkpoints
+elasticsearch_data/*
+01-intro/__pycache__
