@@ -22,5 +22,5 @@ pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywid
 
 Thereafter, configure your key as generated from platform.openai.com
 ```bash
-export OPENAI_API_KEY=“your key"
+export OPENAI_API_KEY="your key"
 ```
