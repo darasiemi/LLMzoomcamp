@@ -2,3 +2,5 @@
 elasticsearch_data/*
 01-intro/__pycache__
 .env
+01-agentic-rag/code/faq*
+01-agentic-rag/code/.ipynb_checkpoints
