@@ -4,3 +4,5 @@ elasticsearch_data/*
 .env
 01-agentic-rag/code/faq*
 01-agentic-rag/code/.ipynb_checkpoints
+01-agentic-rag/code/toyaikit_adaptation/__pycache__
+01-agentic-rag/code/__pycache__

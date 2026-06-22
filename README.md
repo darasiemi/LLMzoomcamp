@@ -1,6 +1,6 @@
 # LLMzoomcamp
 
-To create conda environment
+<!-- To create conda environment
 ```bash
 conda create -n llm-zoomcamp
 ```
@@ -18,7 +18,7 @@ conda install pip
 To install required libraries
 ```bash
 pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets
-```
+``` -->
 
 Thereafter, configure your key as generated from platform.openai.com
 ```bash
