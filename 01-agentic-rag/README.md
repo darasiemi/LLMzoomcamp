@@ -7,7 +7,7 @@ uv init
 
 Add the dependencies we'll need. We will be using Google AI studio,
 ```bash
-uv add requests minsearch sqlitesearch jupyter python-dotenv google-genai
+uv add requests minsearch sqlitesearch jupyter python-dotenv google-genai toyaikit
 ```
 
 This installs:
