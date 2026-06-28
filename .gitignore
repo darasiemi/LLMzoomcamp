@@ -6,3 +6,6 @@ elasticsearch_data/*
 01-agentic-rag/code/.ipynb_checkpoints
 01-agentic-rag/code/toyaikit_adaptation/__pycache__
 01-agentic-rag/code/__pycache__
+02-vector-search/.ipynb_checkpoints
+02-vector-search/faq_vectors*
+02-vector-search/__pycache__

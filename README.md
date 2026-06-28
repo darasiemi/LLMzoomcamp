@@ -1,5 +1,7 @@
 # LLMzoomcamp
 
+A cohort-based training on AI engineering by [DataTalks Club](https://datatalks.club/)
+
 <!-- To create conda environment
 ```bash
 conda create -n llm-zoomcamp
@@ -20,7 +22,7 @@ To install required libraries
 pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets
 ``` -->
 
-Thereafter, configure your key as generated from platform.openai.com
+<!-- Thereafter, configure your key as generated from platform.openai.com
 ```bash
 export OPENAI_API_KEY="your key"
-```
+``` -->
