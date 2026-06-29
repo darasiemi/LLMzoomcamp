@@ -9,3 +9,4 @@ elasticsearch_data/*
 02-vector-search/.ipynb_checkpoints
 02-vector-search/faq_vectors*
 02-vector-search/__pycache__
+02-vector-search/homework/uv.lock
