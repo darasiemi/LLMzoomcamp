@@ -8,3 +8,5 @@ To shut down
 ```bash
 docker compose down
 ```
+
+Open Kestra UI at `http://localhost:8080`
