@@ -11,3 +11,4 @@ elasticsearch_data/*
 02-vector-search/__p
 02-vector-search/homework/models/*
 03-orchestration/.env
+04-evaluation/code/.ipynb_checkpoints/
