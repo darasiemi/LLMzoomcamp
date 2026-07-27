@@ -14,3 +14,7 @@ elasticsearch_data/*
 04-evaluation/code/.ipynb_checkpoints/
 02-vector-search/homework/.env
 04-evaluation/code/models
+05-monitoring/code/.env
+.claude/
+.agents/
+05-monitoring/code/__pycache__
