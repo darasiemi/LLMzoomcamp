@@ -18,3 +18,6 @@ elasticsearch_data/*
 .claude/
 .agents/
 05-monitoring/code/__pycache__
+05-monitoring/code/homework/__pycache__
+05-monitoring/code/.venv
+05-monitoring/code/homework/traces.db
